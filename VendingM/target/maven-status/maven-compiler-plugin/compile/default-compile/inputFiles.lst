@@ -1,0 +1,16 @@
+C:\Work\VendingM\src\main\java\com\example\vendingm\exceptions\ProductNotFoundException.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\exceptions\ControllerAdvisor.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\VendingMApplication.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\exceptions\CoinsNotEnoughException.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\controllers\VendingMachineController.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\services\VendingMachineCrudService.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\controllers\VendingCrudController.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\services\VendingMachineService.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\services\VendingMachineCrudServiceImpl.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\models\CoinBundle.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\exceptions\CoinsNotInsertedException.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\repositories\ProductRepository.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\services\VendingMachineServiceImpl.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\exceptions\ProductNotEnoughException.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\models\ProductDto.java
+C:\Work\VendingM\src\main\java\com\example\vendingm\models\Product.java

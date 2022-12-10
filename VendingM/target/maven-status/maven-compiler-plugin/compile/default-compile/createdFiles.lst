@@ -1,0 +1,16 @@
+com\example\vendingm\services\VendingMachineCrudService.class
+com\example\vendingm\controllers\VendingMachineController.class
+com\example\vendingm\models\CoinBundle.class
+com\example\vendingm\controllers\VendingCrudController.class
+com\example\vendingm\exceptions\CoinsNotInsertedException.class
+com\example\vendingm\repositories\ProductRepository.class
+com\example\vendingm\services\VendingMachineServiceImpl.class
+com\example\vendingm\models\ProductDto.class
+com\example\vendingm\exceptions\ProductNotFoundException.class
+com\example\vendingm\models\Product.class
+com\example\vendingm\exceptions\CoinsNotEnoughException.class
+com\example\vendingm\exceptions\ProductNotEnoughException.class
+com\example\vendingm\exceptions\ControllerAdvisor.class
+com\example\vendingm\services\VendingMachineService.class
+com\example\vendingm\VendingMApplication.class
+com\example\vendingm\services\VendingMachineCrudServiceImpl.class
